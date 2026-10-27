@@ -1,0 +1,40 @@
+Script started on 2026-10-27 04:54:56+00:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="204" LINES="47"]
+afzaalpc@ubuntu:~$ mkdir OS
+afzaalpc@ubuntu:~$ cd OS
+afzaalpc@ubuntu:~/OS$ mkdir ASS  ssignment
+afzaalpc@ubuntu:~/OS$ cd as  Assignment
+afzaalpc@ubuntu:~/OS/Assignment$ cat > Thread <<EOf F
+> line1
+> lin2 e2
+> line3
+> line4
+> line5
+> line6
+> line7
+> line8
+> line9
+> line10
+> EOF
+afzaalpc@ubuntu:~/OS/Assignment$ chmod 741 Thread
+afzaalpc@ubuntu:~/OS/Assignment$ ls -l Thread
+-rwxr----x 1 afzaalpc afzaalpc 61 Oct 27 04:56 Thread
+afzaalpc@ubuntu:~/OS/Assignment$ echo "First 2 lines:" ; head -n 2 thread      Thread
+First 2 lines:
+line1
+line2
+afzaalpc@ubuntu:~/OS/Assignment$ Ec  echo "First       Last 2 lines; :" ; tail n -n w 2 Thread
+Last 2 lines:
+line9
+line10
+afzaalpc@ubuntu:~/OS/Assignment$ end
+Command 'end' not found, but there are 16 similar ones.
+afzaalpc@ubuntu:~/OS/Assignment$ d cd..
+cd..: command not found
+afzaalpc@ubuntu:~/OS/Assignment$ cd.  ..
+afzaalpc@ubuntu:~/OS$ cd ..
+afzaalpc@ubuntu:~$ end
+Command 'end' not found, but there are 16 similar ones.
+afzaalpc@ubuntu:~$ exit
+exit
+
+Script done on 2026-10-27 05:02:21+00:00 [COMMAND_EXIT_CODE="127"]
